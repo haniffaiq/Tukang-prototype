@@ -1,0 +1,12 @@
+#navigasi {
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    background-color: rgb(190, 190, 190)
+}
+
+.nav{
+    margin-right: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
